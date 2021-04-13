@@ -1,4 +1,12 @@
-<table border="1px">
+<html>
+  <head>
+   <title>
+  </title>
+      </head>
+  <body>
+    </hr>
+    test githup
+  <table border="1px">
 <tr>
 <?php
 for($i = 1; $i < 10; $i ++) {
@@ -12,3 +20,6 @@ for($i = 1; $i < 10; $i ++) {
 ?>
 </tr>
 </table>
+    </body>
+  
+  </html>
